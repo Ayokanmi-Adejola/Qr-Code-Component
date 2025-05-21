@@ -20,10 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./preview.jpg)
 
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Qr-Code-Component)
-- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/Qr-Code-Component/)
 
 ## My process
 
@@ -83,6 +79,5 @@ In future projects, I'd like to focus more on:
 
 ## Author
 
-- Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
 - Frontend Mentor - [@AyokanmiAdejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-- Twitter - [@AyokanmiAdejola](https://x.com/AyoAdejola100)
+- 
