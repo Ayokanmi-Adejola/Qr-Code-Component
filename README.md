@@ -2,18 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 ## Overview
 
 ### Screenshot
@@ -76,8 +64,3 @@ In future projects, I'd like to focus more on:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Comprehensive reference for HTML and CSS.
 - [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me understand flexbox layout concepts.
 - [Google Fonts](https://fonts.google.com/) - For finding and implementing web fonts.
-
-## Author
-
-- Frontend Mentor - [@AyokanmiAdejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-- 
